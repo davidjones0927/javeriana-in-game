@@ -1,0 +1,19 @@
+.elementor-kit-6{--e-global-color-primary:#171B5B;--e-global-color-secondary:#0E1444;--e-global-color-text:#F4F4F4;--e-global-color-accent:#52BDCC;--e-global-color-475fa25:#262687;--e-global-color-243a056:#12A2B5;--e-global-color-6d552fa:#F1D794;--e-global-color-a897990:#C19F57;--e-global-typography-primary-font-family:"Agenda One Bold";--e-global-typography-primary-font-weight:700;--e-global-typography-secondary-font-family:"Agenda One Bold";--e-global-typography-secondary-font-weight:700;--e-global-typography-text-font-family:"Agenda One";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Agenda One";--e-global-typography-accent-font-weight:500;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1280px;}.e-con{--container-max-width:1280px;}.elementor-widget:not(:last-child){--kit-widget-spacing:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Agenda One Bold';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://inn-game.iasas.io/wp-content/uploads/2026/05/agenda-bold.woff') format('woff'),
+		url('https://inn-game.iasas.io/wp-content/uploads/2026/05/agenda-bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Agenda One';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://inn-game.iasas.io/wp-content/uploads/2026/05/agenda-regular.woff') format('woff'),
+		url('https://inn-game.iasas.io/wp-content/uploads/2026/05/agenda-regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
